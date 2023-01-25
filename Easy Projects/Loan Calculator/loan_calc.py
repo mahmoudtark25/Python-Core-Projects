@@ -1,3 +1,7 @@
+# a simple calculator for Annuity Loan Payment
+# it's calculate montly payment, number of months, loan principal
+# if you want to calculate one from the above you should provide the others
+
 from math import ceil, log
 
 def loan_interest_calc():
